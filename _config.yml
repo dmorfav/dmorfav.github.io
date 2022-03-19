@@ -1,8 +1,11 @@
 title: Mi Blog
-description: Más que un blog es el lugar donde organizo y hago backups de mis ideas
+description: >- Más que un blog es el lugar donde organizo y hago backups de mis ideas
+baseurl: "" 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+github_username: dmorfav
+
 baseurl:      ""
 locale:       "es"
 
