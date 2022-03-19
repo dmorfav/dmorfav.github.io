@@ -3,3 +3,12 @@ description: Más que un blog es el lugar donde organizo y hago backups de mis i
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+baseurl:      ""
+locale:       "es"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
