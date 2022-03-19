@@ -1,5 +1,6 @@
 title: Mi Blog
 description: >- Más que un blog es el lugar donde organizo y hago backups de mis ideas
+email: dmorfav@gmail.com
 baseurl: "" 
 show_downloads: false
 google_analytics:
