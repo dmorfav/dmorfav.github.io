@@ -5,8 +5,8 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
 github_username: dmorfav
-baseurl:      ""
-locale:       "es"
+baseurl: ""
+locale: "es"
 
 # Gems
 plugins:
