@@ -9,7 +9,7 @@ baseurl:      ""
 locale:       "es"
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
 
 #Others
