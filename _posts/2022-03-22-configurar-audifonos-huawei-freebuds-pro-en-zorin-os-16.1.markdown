@@ -8,7 +8,7 @@ Accedemos a una terminal y en ella ejecutamos ```bluetoothctl```
 
 y obtendremos algo como esto
 
-![image](https://user-images.githubusercontent.com/10134910/159496234-9509bbdd-09be-44e5-b521-974df4e16f9c.png)
+![image](https://raw.githubusercontent.com/dmorfav/dmorfav.github.io/main/images/posts/configurar-audifonos-huawei-freebuds-pro-en-zorin-os-16/159496234-9509bbdd-09be-44e5-b521-974df4e16f9c.png)
 
 luego ejecutamos el comando ```info``` dentro de este apartado para verificar toda la info de los audífonos
 
@@ -42,6 +42,6 @@ systemctl --user restart pipewire && sudo reboot
 ### Apreciando el resutado final
 Una vez reiniciado el ordenador podemos apreciar que ya esta disponible el micro para ser utilizado
 
-![image](https://raw.githubusercontent.com/dmorfav/dmorfav.github.io/main/images/posts/configurar-audifonos-huawei-freebuds-pro-en-zorin-os-16/159496234-9509bbdd-09be-44e5-b521-974df4e16f9c.png)
+![image](https://raw.githubusercontent.com/dmorfav/dmorfav.github.io/main/images/posts/configurar-audifonos-huawei-freebuds-pro-en-zorin-os-16/159499403-5d324481-261c-48fa-a3d4-8ac1f10020db.png)
 
 Lo único que no me ha hecho mucha gracia es que los audifonos pasan a utilizar el canal ```mono``` y no tengo idea de porque sucede.
