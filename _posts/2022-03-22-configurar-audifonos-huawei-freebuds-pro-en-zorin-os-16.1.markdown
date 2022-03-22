@@ -44,4 +44,4 @@ Una vez reiniciado el ordenador podemos apreciar que ya esta disponible el micro
 
 ![image](https://raw.githubusercontent.com/dmorfav/dmorfav.github.io/main/images/posts/configurar-audifonos-huawei-freebuds-pro-en-zorin-os-16/159499403-5d324481-261c-48fa-a3d4-8ac1f10020db.png)
 
-Lo único que no me ha hecho mucha gracia es que los audifonos pasan a utilizar el canal ```mono``` y no tengo idea de porque sucede.
+>Lo único que no me ha hecho mucha gracia es que los audifonos pasan a utilizar el canal ```mono``` y no tengo idea de porque sucede.
