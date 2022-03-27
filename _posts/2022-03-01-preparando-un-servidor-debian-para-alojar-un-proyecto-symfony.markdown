@@ -1,6 +1,6 @@
 ## Preparando un servidor debian para alojar un proyecto Symfony
 
-Para realizar las configuraciones de el despliegue de un proyecto en PHP con el framework Symfony en un servidor Debian 10 me he montado este pequeño script que me agiliza mucho el trabajo. Les dejo los detalles debajo
+Para realizar las configuraciones de despliegue de un proyecto en PHP con el framework Symfony en un servidor Debian 10 me he montado este pequeño script que me agiliza mucho el trabajo. Les dejo los detalles debajo
 
 Lo primero a aclarar es que el script esta pensado para que sea ejecutado con permisos de root pero no desde éste usuario, asi que no es necesario llamarlo con **sudo**. Lo primero que haremos es crear un nuevo fichero donde pegaremos el código siguiente, para ello con ejecutar en la carpeta personal ``` nano script.sh``` es suficiente.
 
