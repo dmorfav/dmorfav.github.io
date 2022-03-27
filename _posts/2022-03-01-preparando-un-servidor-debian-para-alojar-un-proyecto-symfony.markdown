@@ -99,6 +99,15 @@ echo "deb [signed-by=/usr/share/keyrings/yarnkey.gpg] https://dl.yarnpkg.com/deb
 #Instalamos yarn
 sudo apt-get update && sudo apt-get install yarn
 
+ 
+
+#********Instalamos certbot para firmar los certificados SSL con letscrypt*******************# 
+
+sudo apt-get update 
+
+sudo apt-get install python-certbot-apache 
+
+sudo apt-get install certbot
 
 
 #********Mysql server config****************# 
