@@ -3,7 +3,7 @@
 
 >"Si la depuración es el proceso de eliminar errores, entonces la programación debe ser el proceso de introducirlos". _-- Edsger W. Dijkstra_
 
-El despliegue automático de los proyectos es en mi opinión uno de los procesos fundamentales que deben valorar las empresas de desarrollo de software, para llevar a cabo esto se debe tener en cuenta dos variables fundamentales, costo del despliegue y cantidad de entornos. Debemos tener presente que necesitaremos un entorno de éste tipo para cada proyecto, por lo que debemos intentar ahorrar la mayor cantidad de recursos en los entornos.
+El despliegue automático de los proyectos es en mi opinión uno de los procesos fundamentales que deben priorizar las empresas de desarrollo de software, para llevar a cabo esto se debe tener en cuenta dos variables fundamentales, costo del despliegue y cantidad de entornos. Debemos tener presente que necesitaremos un entorno de éste tipo para cada proyecto, por lo que debemos intentar ahorrar la mayor cantidad de recursos en los entornos.
 
 ## Cantidad de entornos
 
