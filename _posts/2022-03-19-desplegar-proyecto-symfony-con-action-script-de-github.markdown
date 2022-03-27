@@ -146,7 +146,7 @@ EL siguiente paso es firmar con un certificado SSL los dominios y para ello prop
 ![image](https://user-images.githubusercontent.com/10134910/160295612-8e6516f2-2d95-4eab-9909-0c4d803960a4.png)
 
 
->Importante notar que he seleccionado la opción de _webroot_ le he agregado el dominio que voy a firmar y he apuntado la dirección del proyecto a la ruta ```/var/www/html/PROYECTO/public``` contemplando que el **VirtualHost** anteriormente fue definido en la carpeta _**public**_ del proyecto.
+>Importante notar que he seleccionado la opción de _webroot_ le he agregado el dominio que voy a firmar y he apuntado la dirección del proyecto a la ruta ```/var/www/html/PROYECTO/public``` contemplando que el **VirtualHost** anteriormente fue definido en la carpeta _**public**_ del proyecto. **Una vez obtenido los certificados debemos proceder a descomentar las configuraciones de los VirtualHost referentes a SSL**
 
 ### Actions de github
 
