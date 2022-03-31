@@ -167,9 +167,9 @@ jobs:
       - name: 🎉 Deploy to production
         uses: appleboy/ssh-action@master
         with:
-          username: ${{ secrets.USER }}
-          host: ${{ secrets.HOST }}
-          key: ${{ secrets.KEY }}
+          username: {% raw %}${{ secrets.USER }}{% endraw %}
+          host: {% raw %}${{ secrets.HOST }}{% endraw %}
+          key: {% raw %}${{ secrets.KEY }}{% endraw %}
           script: |
             cd /var/www/html/PROYECTO/
             git reset --hard
@@ -202,9 +202,9 @@ jobs:
       - name: 🎉 Deploy to production
         uses: appleboy/ssh-action@master
         with:
-          username: ${{ secrets.USER }}
-          host: ${{ secrets.HOST }}
-          key: ${{ secrets.KEY }}
+          username: {% raw %}${{ secrets.USER }}{% endraw %}
+          host: {% raw %}${{ secrets.HOST }}{% endraw %}
+          key: {% raw %}${{ secrets.KEY }}{% endraw %}
           script: |
             cd /var/www/html/DEV_PROYECTO/
             git reset --hard
@@ -238,9 +238,9 @@ jobs:
       - name: 🎉 Deploy to Testing
         uses: appleboy/ssh-action@master
         with:
-          username: ${{ secrets.USER }}
-          host: ${{ secrets.HOST }}
-          key: ${{ secrets.KEY }}
+          username: {% raw %}${{ secrets.USER }}{% endraw %}
+          host: {% raw %}${{ secrets.HOST }}{% endraw %}
+          key: {% raw %}${{ secrets.KEY }}{% endraw %}
           script: |
             cd /var/www/html/TEST_PROYECTO/
             git reset --hard
