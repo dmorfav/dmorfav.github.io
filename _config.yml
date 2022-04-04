@@ -8,6 +8,7 @@ theme: jekyll-theme-architect
 github_username: dmorfav
 baseurl: ""
 locale: "es"
+google_analytics: G-CXBTN6PDFM
 
 # Gems
 plugins:
